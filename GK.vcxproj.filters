@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Quellcodedateien">
+      <UniqueIdentifier>{ed82b627-dc6e-418f-9462-4c748928640f}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header-Dateien">
+      <UniqueIdentifier>{6308ecba-9dca-4faa-b8f5-8919c64f489d}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Ressourcendateien">
+      <UniqueIdentifier>{5c9f77e5-290c-4804-bf57-2a82ca36196e}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="Hilfedateien">
+      <UniqueIdentifier>{bf630e03-5855-4fd9-b212-3dc3cf1b3946}</UniqueIdentifier>
+      <Extensions>cnt;rtf</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ChildFrm.cpp">
+      <Filter>Quellcodedateien</Filter>
+    </ClCompile>
+    <ClCompile Include="CntrItem.cpp">
+      <Filter>Quellcodedateien</Filter>
+    </ClCompile>
+    <ClCompile Include="GK.cpp">
+      <Filter>Quellcodedateien</Filter>
+    </ClCompile>
+    <ClCompile Include="GKDoc.cpp">
+      <Filter>Quellcodedateien</Filter>
+    </ClCompile>
+    <ClCompile Include="GKView.cpp">
+      <Filter>Quellcodedateien</Filter>
+    </ClCompile>
+    <ClCompile Include="LeftView.cpp">
+      <Filter>Quellcodedateien</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>Quellcodedateien</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Quellcodedateien</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="GK.rc">
+      <Filter>Quellcodedateien</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ChildFrm.h">
+      <Filter>Header-Dateien</Filter>
+    </ClInclude>
+    <ClInclude Include="CntrItem.h">
+      <Filter>Header-Dateien</Filter>
+    </ClInclude>
+    <ClInclude Include="GK.h">
+      <Filter>Header-Dateien</Filter>
+    </ClInclude>
+    <ClInclude Include="GKDoc.h">
+      <Filter>Header-Dateien</Filter>
+    </ClInclude>
+    <ClInclude Include="GKView.h">
+      <Filter>Header-Dateien</Filter>
+    </ClInclude>
+    <ClInclude Include="LeftView.h">
+      <Filter>Header-Dateien</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>Header-Dateien</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header-Dateien</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\GK.ico">
+      <Filter>Ressourcendateien</Filter>
+    </Image>
+    <Image Include="res\GKDoc.ico">
+      <Filter>Ressourcendateien</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>Ressourcendateien</Filter>
+    </Image>
+    <Image Include="hlp\AppExit.bmp">
+      <Filter>Hilfedateien</Filter>
+    </Image>
+    <Image Include="hlp\Bullet.bmp">
+      <Filter>Hilfedateien</Filter>
+    </Image>
+    <Image Include="hlp\CurArw2.bmp">
+      <Filter>Hilfedateien</Filter>
+    </Image>
+    <Image Include="hlp\CurArw4.bmp">
+      <Filter>Hilfedateien</Filter>
+    </Image>
+    <Image Include="hlp\CurHelp.bmp">
+      <Filter>Hilfedateien</Filter>
+    </Image>
+    <Image Include="hlp\EditCopy.bmp">
+      <Filter>Hilfedateien</Filter>
+    </Image>
+    <Image Include="hlp\EditCut.bmp">
+      <Filter>Hilfedateien</Filter>
+    </Image>
+    <Image Include="hlp\EditPast.bmp">
+      <Filter>Hilfedateien</Filter>
+    </Image>
+    <Image Include="hlp\EditUndo.bmp">
+      <Filter>Hilfedateien</Filter>
+    </Image>
+    <Image Include="hlp\FileNew.bmp">
+      <Filter>Hilfedateien</Filter>
+    </Image>
+    <Image Include="hlp\FileOpen.bmp">
+      <Filter>Hilfedateien</Filter>
+    </Image>
+    <Image Include="hlp\FilePrnt.bmp">
+      <Filter>Hilfedateien</Filter>
+    </Image>
+    <Image Include="hlp\FileSave.bmp">
+      <Filter>Hilfedateien</Filter>
+    </Image>
+    <Image Include="hlp\HlpSBar.bmp">
+      <Filter>Hilfedateien</Filter>
+    </Image>
+    <Image Include="hlp\HlpTBar.bmp">
+      <Filter>Hilfedateien</Filter>
+    </Image>
+    <Image Include="hlp\RecFirst.bmp">
+      <Filter>Hilfedateien</Filter>
+    </Image>
+    <Image Include="hlp\RecLast.bmp">
+      <Filter>Hilfedateien</Filter>
+    </Image>
+    <Image Include="hlp\RecNext.bmp">
+      <Filter>Hilfedateien</Filter>
+    </Image>
+    <Image Include="hlp\RecPrev.bmp">
+      <Filter>Hilfedateien</Filter>
+    </Image>
+    <Image Include="hlp\Scmax.bmp">
+      <Filter>Hilfedateien</Filter>
+    </Image>
+    <Image Include="hlp\ScMenu.bmp">
+      <Filter>Hilfedateien</Filter>
+    </Image>
+    <Image Include="hlp\Scmin.bmp">
+      <Filter>Hilfedateien</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="hlp\GK.hpj">
+      <Filter>Quellcodedateien</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource.h">
+      <Filter>Header-Dateien</Filter>
+    </CustomBuild>
+    <CustomBuild Include="res\GK.rc2">
+      <Filter>Ressourcendateien</Filter>
+    </CustomBuild>
+    <CustomBuild Include="hlp\AfxCore.rtf">
+      <Filter>Hilfedateien</Filter>
+    </CustomBuild>
+    <CustomBuild Include="hlp\AfxOleCl.rtf">
+      <Filter>Hilfedateien</Filter>
+    </CustomBuild>
+    <CustomBuild Include="hlp\AfxPrint.rtf">
+      <Filter>Hilfedateien</Filter>
+    </CustomBuild>
+    <CustomBuild Include="hlp\GK.cnt">
+      <Filter>Hilfedateien</Filter>
+    </CustomBuild>
+    <CustomBuild Include="GK.reg" />
+  </ItemGroup>
+</Project>

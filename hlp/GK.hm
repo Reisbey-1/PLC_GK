@@ -1,0 +1,18 @@
+ 
+// Commands (ID_* and IDM_*) 
+HID_CANCEL_EDIT_CNTR                    0x18000
+HID_VIEW_ARRANGE                        0x1007F
+ 
+// Prompts (IDP_*) 
+HIDP_OLE_INIT_FAILED                    0x30064
+HIDP_FAILED_TO_CREATE                   0x30066
+ 
+// Resources (IDR_*) 
+HIDR_GKTYPE_CNTR_IP                     0x20006
+HIDR_MAINFRAME                          0x20080
+HIDR_GKTYPE                             0x20081
+ 
+// Dialogs (IDD_*) 
+HIDD_ABOUTBOX                           0x20064
+ 
+// Frame Controls (IDW_*) 
